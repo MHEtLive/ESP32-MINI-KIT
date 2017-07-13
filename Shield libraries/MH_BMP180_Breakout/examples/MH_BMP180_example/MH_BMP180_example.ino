@@ -1,7 +1,7 @@
 #include <MH_BMP180.h>
 #include <Wire.h>
 
-// You will need to create an SFE_BMP180 object, here called "pressure":
+
 
 MH_BMP180 pressure;
 
