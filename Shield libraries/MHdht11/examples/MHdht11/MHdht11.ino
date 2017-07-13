@@ -38,7 +38,7 @@ double dewPointFast(double celsius, double humidity)
 
 dht11 DHT11;
 
-#define DHT11PIN 2
+#define DHT11PIN 16
 
 void setup()
 {
